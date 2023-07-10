@@ -1,5 +1,5 @@
 <h1 align="center">MovieHUB</h1>
-MovieHUB is a user-friendly React-based movie website. Search movies by title, sort by genre, and stay updated on trending and upcoming releases. Bookmark your favorite movies for quick access.
+MovieHUB is an innovative movie website built with React, offering users a seamless experience to explore and discover their favorite movies. With its intuitive interface and captivating design, MovieHUB empowers users to effortlessly search for movies by title, conveniently sort them by genre, and stay up-to-date with trending and upcoming releases. Additionally, MovieHUB provides a bookmarking feature, allowing users to save and revisit their most beloved movies with ease. Get ready to immerse yourself in the world of cinema with MovieHUB, where functionality meets aesthetics.
 <hr/>
 
 ![background](/src/assets/images/HomePage.jpg)
