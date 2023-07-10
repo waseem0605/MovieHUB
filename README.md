@@ -1,4 +1,4 @@
-<h1 align="center">BlueBird-Movies</h1>
+<h1 align="center">MovieHUB</h1>
 MovieHUB is a React-based movie website that allows users to search for movies by title, sort them by genre, view trending and upcoming movies, and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.
 <hr/>
 
@@ -78,4 +78,4 @@ Note: Ensure that you have carefully added the TMDB API key and Firebase authent
 
 # 🍿 Demo 
 
-- Check out our live demo at https://bluebirdmovies.netlify.app/ 
+- Check out our live demo at https://moviehub23.netlify.app 
