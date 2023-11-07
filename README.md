@@ -89,4 +89,4 @@ Note: Double-check that the TMDB API key and Firebase authentication configurati
 
 - Immerse yourself in the magic of movies at our live demo: [MovieHUB Live Demo](https://moviehub23.netlify.app)
 
-MovieHUB - Uniting Movie Lovers, One Film at a Time! 🎉
+MovieHUB - Uniting Movie Freaks, One Film at a Time! 🎉
